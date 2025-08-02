@@ -1,0 +1,56 @@
+--- Research Output ---
+Timestamp: 2025-08-02 16:08:44
+
+```json
+{
+  "topic": "Top Gothic Fashion Designers",
+  "summary": "The world of gothic fashion is characterized by its dark, dramatic, and often romantic aesthetic. Many designers have made significant contributions to the gothic style, which draws influences from historical periods such as the Victorian and Elizabethan eras, as well as elements of punk, BDSM, and romanticism. This report showcases five notable designers within the gothic fashion scene, each known for their unique approaches and styles.",
+  "sources": [
+    "Wikipedia: Gothic fashion",
+    "Various fashion articles and reviews on gothic designers"
+  ],
+  "tools_used": [
+    "Wikipedia API",
+    "DuckDuckGo search"
+  ]
+}
+```
+
+--- Research Output ---
+Timestamp: 2025-08-02 16:09:55
+
+{
+  "topic": "Top 5 Gothic Fashion Designers",
+  "summary": "Gothic fashion is a distinctive style characterized by dark, dramatic clothing and accessories, often incorporating elements from historical fashion periods like the Elizabethan and Victorian eras. Many designers have made significant contributions to this aesthetic, blending mystery, darkness, and alternative apparel into their creations. Here are five notable gothic fashion designers with impactful works.",
+  "sources": [
+    "Gothic Fashion Wikipedia Page",
+    "Top Gothic Fashion Designers Article"
+  ],
+  "tools_used": [
+    "wikipedia_query",
+    "search"
+  ],
+  "designers": [
+    {
+      "name": "Alexander McQueen",
+      "work": "Known for his avant-garde and theatrical designs, Alexander McQueen embraced gothic elements through dark romanticism, utilizing dramatic silhouettes and ornate detailing."
+    },
+    {
+      "name": "Rick Owens",
+      "work": "Renowned for his 'glunge' aesthetic, Rick Owens combines gothic influences with grunge, creating dark, structured garments that challenge traditional notions of beauty and fashion."
+    },
+    {
+      "name": "Vivienne Westwood",
+      "work": "A pioneer of punk fashion, Vivienne Westwood incorporates gothic sensibilities into her creations, often using historical references and modern twists to create unique garments."
+    },
+    {
+      "name": "Julius",
+      "work": "This Japanese brand is known for its dark, minimalist approach, combining gothic motifs with a modern, urban aesthetic, focused on silhouette and texture."
+    },
+    {
+      "name": "Ann Demeulemeester",
+      "work": "With a poetic and romantic approach to fashion, Ann Demeulemeester often uses black as a primary color, combining flowing, androgynous designs with gothic attributes."
+    }
+  ]
+}
+
